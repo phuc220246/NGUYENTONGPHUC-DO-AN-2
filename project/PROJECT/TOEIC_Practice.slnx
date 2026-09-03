@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TOEIC_Practice.BLL/TOEIC_Practice.BLL.csproj" Id="084e1526-3259-4082-8895-3fbaa2cdd00d" />
+  <Project Path="TOEIC_Practice.DAL/TOEIC_Practice.DAL.csproj" Id="d4cd942a-38c0-42af-9f78-0328194d8b0c" />
+  <Project Path="TOEIC_Practice.DTO/TOEIC_Practice.DTO.csproj" Id="d487273d-c18a-4303-9b02-aa374b770ecc" />
+  <Project Path="TOEIC_Practice.GUI/TOEIC_Practice.GUI.csproj" Id="04dda5e3-19d5-466a-9622-b946e8304a33" />
+</Solution>
